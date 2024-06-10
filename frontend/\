@@ -1,0 +1,11 @@
+---
+import { Image } from 'astro:assets';
+---
+ <div class="bg-surface1 p-2  flex-col h-[17rem] w-[22rem] rounded-md border-2 border-blue shadow-2xl shadow-blue">
+  <h2 class=" text-center w-full">Catppuccin Theme! </h2>
+  <Image class="rounded-md w-[80%] my-2 mx-auto content-center"src="https://repository-images.githubusercontent.com/425134686/7ae77a27-976a-4da5-bf76-d2fcba939d68" alt="asdf" width="50" height="50" />
+  <span class="  justify-around inline-flex  w-full">
+    <span class="w-full border-2 border-red">Author</span>
+    <span class="w-full border-2 border-red">Author</span>
+  </span>
+ </div> 
