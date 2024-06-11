@@ -2,7 +2,7 @@
   import * as Card from "$lib/components/ui/card";
 </script>
 
-<Card.Root class="w-[20rem]">
+<Card.Root class="size-[30rem]">
   <Card.Header>
     <Card.Title>Card Title</Card.Title>
     <Card.Description>Card Description</Card.Description>

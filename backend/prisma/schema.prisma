@@ -16,4 +16,5 @@ model Blog {
   author      String
   description String?
   content     String
+  image       String?
 }
